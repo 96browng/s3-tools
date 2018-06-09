@@ -74,7 +74,7 @@ fi
 
 
 
-putS3
+putS3WGet
 if [ $result -eq 0 ]; then
     echo "Upload successful"
 else
