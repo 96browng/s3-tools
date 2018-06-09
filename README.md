@@ -26,6 +26,7 @@ To execute the process:
 ```
 ## Download
 *Assumes to download a file example.upload.encrypted*
+
 Make sure you know:
 * Your S3 bucket identifier
 * Your S3 access identifier
